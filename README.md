@@ -16,8 +16,8 @@ ___
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|-----------|------|
-| **프로젝트명 1** | 프로젝트 설명 | Spring Boot, MySQL, React | [Repo](링크) |
-| **프로젝트명 2** | 프로젝트 설명 | Java, Spring, .NET | [Repo](링크) |
+| **Wemmy** | 서울시 임신, 육아 맞춤 혜택 제공 플랫폼 | Java, Spring Boot, MySQL | [Repo](https://github.com/dkqpeo/Wemmy-Backend) |
+| **Persome** | 올리브영을 벤치마킹한 개인 맞춤형 이커머스 플랫폼 | Java, Spring Boot, MySQL | [Repo](https://github.com/dkqpeo/Persome) |
 ___
 
 ## Contact
